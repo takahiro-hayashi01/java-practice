@@ -12,7 +12,7 @@ Javaの学習・練習用リポジトリです。
 
 ## Environment
 
-- Windows 11
-- Java
-- PowerShell
-- Git / GitHub
+- 使用OS : Windows11
+- 言語 : Java
+- シェル : PowerShell
+- バージョン管理 : Git / GitHub
